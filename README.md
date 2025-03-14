@@ -2,6 +2,9 @@
 
 Projeto criado em aulas de HTML e CSS da Alura.
 
+## Acesse o projeto
+https://portifolio-telmaitos-projects.vercel.app/
+
 ## Sobre o Projeto
 
 Este projeto envolveu a criação de uma página HTML, responsivo, com uso de estilos (CSS). Foram utilizados funcionalidades tais como:
